@@ -131,7 +131,7 @@ points_within_square_SB = points[points_in_square(points, square)]
 dfSB = pd.DataFrame(points_within_square_SB)
 
 
-dfSB["place3"]="SD"
+dfSB["place3"]="SB"
 df["place3"] = dfSB["place3"]
 
 
