@@ -24,9 +24,7 @@ import plotly.io as pio
 #zf.extractall()
 #zf.close()
 
-with ZipFile("/Users/sabrinathoen/case_goed/california-housing-prices.zip", 'r') as zObject:
-     zObject.extractall(
-        path="/Users/sabrinathoen/case_goed")
+
 df = pd.read_csv('housing.csv')
               
 
