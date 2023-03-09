@@ -98,7 +98,7 @@ st.title("Ocean Proximity Analysis")
 
 #Text under title
 st.write(
-    """On this page illustrates a visual analysis of the variable Ocean Proximity. The first plot visualizes the relation between the total rooms per block, median house value and the proximity to the ocean. The second plot illustrates the relation between population and households per block and the ocean proximity. In the sidebar there's options to choose which data is visible. Enjoy!"""
+    """This page illustrates a visual analysis of the variable Ocean Proximity. The first plot visualizes the relation between the total rooms per block, median house value and the proximity to the ocean. The second plot illustrates the relation between population and households per block and the ocean proximity. In the sidebar there's options to choose which data is visible. Enjoy!"""
 )
 
 #Sidebar
