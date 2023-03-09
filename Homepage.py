@@ -62,7 +62,7 @@ with col3:
     st.image(image)
 
 #Intro page
-st.write('Start today with your search to an area where your wishes would have had the biggest changes to actually come true! (in 1990).')
+st.write('Start today with your search to an area where your wishes would have had the biggest changes to actually come true! (in 1990, because houses are not affordable anymore nowadays...).')
     
 #Column naam veranderen
 df.rename(columns={'longitude': 'lon', 'latitude': 'lat'}, inplace=True)
